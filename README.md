@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepanshi Kathuria identified as @Deepanshi-Kathruia06
+- 👋 Hi, I’m Deepanshi Kathuria
 - 👀 I’m passionate about Web Development, with a keen interest in creating seamless and user-friendly experiences.
 - 🌱 I’m currently learning Java, DSA using cpp.
 - 💞️ I’m looking to collaborate on exciting projects! Whether it's coding, brainstorming ideas, or contributing to open-source initiatives.
